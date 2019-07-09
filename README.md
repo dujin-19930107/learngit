@@ -1,3 +1,3 @@
 # learngit
 
-Welcome to go to the my github.
+Welcome to my github, let's learn to use Linux!
